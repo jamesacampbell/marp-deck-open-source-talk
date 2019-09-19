@@ -3,6 +3,7 @@
 @import 'uncover';
 
 section {
-  background: #cef;
-  color: #135;
+    background: #cef;
+    color: #135;
+    font-family: monospace;
 }

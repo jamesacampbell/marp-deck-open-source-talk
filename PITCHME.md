@@ -9,17 +9,17 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> Merge Me
 
-Hosting Marp slide deck on the web
+Maintaining projects in the open source community
 
-https://github.com/yhatt/marp-cli-example
+https://github.com/jamesacampbell
 
-<style scoped>a { color: #eee; }</style>
+<style scoped>a { color: #eee; } html { font-family: monospace;} </style>
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+![Marp bg 50%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
 
 ---
 
